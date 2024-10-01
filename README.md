@@ -1,5 +1,7 @@
 # Tic Tac Toe Multiplayer Game
 
+![Tic Tac Toe Game Screenshot](public/assets/screenshot.jpeg)
+
 This is a simple **Tic Tac Toe** multiplayer game built using **Bun.js** and **Socket.IO** for real-time communication between two players. The game allows two players to play against each other over a local network, where each player is assigned either 'X' or 'O'. The game board updates in real-time, ensuring that both players see the same game state.
 
 ## Overview
